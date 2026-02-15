@@ -1,16 +1,34 @@
-## Hi there 👋
+# Dara O Murchu
 
-<!--
-**daraomur/daraomur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc in Technologies and Analytics in Precision Medicine  
+Royal College of Surgeons in Ireland (Expected 2026)
 
-Here are some ideas to get you started:
+Background in Genetics and Genomics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Machine Learning & Predictive Modelling for Biomedical Applications
+- Computational Biology & Bioinformatics
+- Psychiatric & Rare Disease Genomics
+- Multi-Omic Data Integration
+- Translational Genomics & Onco-Genomics
+
+## Research
+
+### Prospective MSc Thesis (2026)
+"Integrating Spatial Omics Signal Transduction Pathway Analysis and Machine Learning to Predict Chemotherapy Response in Colorectal Cancer"
+
+### BSc Thesis (2025) 
+"The contribution of FOXP1-regulated genes to schizophrenia risk"
+Supervisor: Dr. Derek Morris
+
+## Technical Skills
+- Python (Biopython, NumPy, pandas)
+- R (tidyverse, Bioconductor, DESeq2)
+- Machine Learning
+- Statistical Modelling (Regression-based models)
+- Data Visualisation
+- Exploratory Data Analysis
+
+## Contact
+- Email: daraomurchu25@rcsi.com
+- LinkedIn: www.linkedin.com/in/daraomurchu
