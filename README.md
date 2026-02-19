@@ -24,10 +24,10 @@ Background in Genetics and Genomics
 ## Technical Skills
 - Python (Biopython, NumPy, pandas)
 - R (tidyverse, Bioconductor, DESeq2)
-- Machine Learning
 - Statistical Modelling (Regression-based models)
 - Data Visualisation
 - Exploratory Data Analysis
+- Bioinformatics
 
 ## Contact
 - Email: daraomurchu25@rcsi.com
