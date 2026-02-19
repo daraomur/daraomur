@@ -19,7 +19,7 @@ Background in Genetics and Genomics
 
 ### BSc Thesis (2025) 
 "The contribution of FOXP1-regulated genes to schizophrenia risk"
-Supervisor: Dr. Derek Morris
+- Supervisor: Dr. Derek Morris
 
 ## Technical Skills
 - Python (Biopython, NumPy, pandas)
