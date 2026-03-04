@@ -16,10 +16,13 @@ Background in Genetics and Genomics
 
 ### MSc Thesis (May 2026)
 "Validation of a Machine Learning Derived Methylation-based Diagnostic Classifier for Sinonasal Tumors"
+- Supervisor: Dr. Sudipto Das
+- Institution: Royal College of Surgeons, Ireland
 
 ### BSc Thesis (2025) 
 "The contribution of FOXP1-regulated genes to schizophrenia risk"
 - Supervisor: Dr. Derek Morris
+- Institution: University of Galway, Ireland
 
 ## Technical Skills
 - Python (Biopython, NumPy, pandas)
