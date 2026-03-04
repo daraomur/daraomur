@@ -14,8 +14,8 @@ Background in Genetics and Genomics
 
 ## Research
 
-### Prospective MSc Thesis (2026)
-"Integrating Spatial Omics Signal Transduction Pathway Analysis and Machine Learning to Predict Chemotherapy Response in Colorectal Cancer"
+### MSc Thesis (May 2026)
+"Validation of a Machine Learning Derived Methylation-based Diagnostic Classifier for Sinonasal Tumors"
 
 ### BSc Thesis (2025) 
 "The contribution of FOXP1-regulated genes to schizophrenia risk"
