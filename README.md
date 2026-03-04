@@ -6,8 +6,8 @@ Royal College of Surgeons in Ireland (Expected 2026)
 Background in Genetics and Genomics
 
 ## Interests
-- Machine Learning & Predictive Modelling for Biomedical Applications
 - Computational Biology & Bioinformatics
+- Machine Learning & Predictive Modelling for Biomedical Applications
 - Psychiatric & Rare Disease Genomics
 - Multi-Omic Data Integration
 - Translational Genomics & Onco-Genomics
