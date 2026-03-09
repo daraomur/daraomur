@@ -31,6 +31,7 @@ Background in Genetics and Genomics
 - Data Visualisation
 - Exploratory Data Analysis
 - Bioinformatics
+- Molecular Biology Techniques (RNA/DNA extraction, PCR methods, gel electrophoresis, NGS workflows)
 
 ## Contact
 - Email: daraomurchu25@rcsi.com
